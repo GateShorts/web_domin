@@ -5,6 +5,8 @@
             "json1": "/api/episode?episodeId=",
             "json2": "&showId=",
             "checkcover": "checkcover",
+            "json1spacetoon": "/api/episode?episodeId=",
+            "json2spacetoon": "&showId=",
             "jsoneps": ""
         }
     ]
