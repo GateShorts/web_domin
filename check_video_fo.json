@@ -4,6 +4,7 @@
             "checkcloudflare": "",
             "json1": "/api/episode?episodeId=",
             "json2": "&showId=",
+            "checkcover": "checkcover",
             "jsoneps": ""
         }
     ]
