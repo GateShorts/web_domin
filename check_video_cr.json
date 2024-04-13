@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "check_cr1": "mslslcartoon",
+      "linkbox1": "linkbox",
+      "linkbox2": "linkbox",
+      "linkbox_domin": "https://www.linkbox.to",
+      "check_linkbox": "",
+      "checkdrive": "drive",
+      "linkdrive": "https://drive.usercontent.google.com/download?id=",
+      "docs": "&confirm=",
+      "driveid": "drive",
+      "apilinkbox": "https://www.linkbox.to/api/file/detail?itemId="
+    }
+  ]
+}
