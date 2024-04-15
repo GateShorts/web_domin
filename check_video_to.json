@@ -1,0 +1,39 @@
+{
+    "data": [
+        {
+            "zidlions1": "file",
+            "segavid": "file",
+            "filemoon1": "file",
+            "webleech": "files/leech/video",
+            "mirror": "files/mirror/video",
+            "Inertia": "X-Inertia-Partial-Component",
+            "streamtapembed": "https://streamtape.com",
+            "uqloadembed": "https://uqload.com",
+            "okruembed": "https://ok.ru",
+            "doodembed": "https://dood.wf",
+            "megamaxembed": "https://megamax.me",
+            "updownembed": "https://updown.cam",
+            "filelionsembed": "https://zidlions.online",
+            "streamwishembed": "https://streamwish.to",
+            "lylxan1": "file",
+            "upstream1": "file",
+            "lulustream1": "file",
+            "fileupload1": "file",
+            "updown": "file",
+            "vtube1": "file",
+            "mail_meta": "https://my.mail.ru/+/video/meta/",
+            "driveid": "https://drive.usercontent.google.com/download?id=",
+            "googledrivecontains": "&confirm=",
+            "remove_GoogleDrive": "&confirm=",
+            "videacontains240": "https://videa.hu/static/240/",
+            "videacontains360": "https://videa.hu/static/360/",
+            "videacontains480": "https://videa.hu/static/480/",
+            "videacontains720": "https://videa.hu/static/720p/",
+            "videacontains1080": "https://videa.hu/static/1080/",
+            "banner": "banner",
+            "vidyardtypejson": ".json",
+            "vidyardApi": "https://play.vidyard.com/player/",
+            "apikeyyounplay": ""
+        }
+    ]
+}
