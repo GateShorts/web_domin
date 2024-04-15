@@ -1,0 +1,36 @@
+{
+    "data": [
+        {
+            "zidlions1": "file",
+            "segavid": "file",
+            "filemoon1": "file",
+            "webleech": "files/leech/video",
+            "mirror": "files/mirror/video",
+            "Inertia": "X-Inertia-Partial-Component",
+            "uqloadembed": "https://uqload.com",
+            "doodembed": "https://dood.wf",
+            "megamaxembed": "https://megamax.me",
+            "zidlionsembed": "https://zidlions.online",
+            "lylxan1": "file",
+            "upstream1": "file",
+            "fileupload1": "file",
+            "updown": "file",
+            "vtube1": "file",
+            "vidtube1": "file",
+            "streamvid1": "file",
+            "mixdrop1": "file",
+            "play": "play",
+            "watch": "watch",
+            "postcheck": "post",
+            "vidtuveembed": "https://vidtube.pro",
+            "mixdropembed": "https://mixdrop.nu",
+            "vadbamembed": "https://vadbam.net",
+            "streamvidembed": "https://streamvid.net",
+            "vidguradembed": "https://vid-guard.com",
+            "filemoonembed": "https://filemoon.sx",
+            "bestxcontains": "/video.m3u8?auth=",
+            "removebestx": "m3u8",
+            "referer_bestx": "https://animezid.org/"
+        }
+    ]
+}
