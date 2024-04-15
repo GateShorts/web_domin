@@ -33,7 +33,7 @@
             "banner": "banner",
             "vidyardtypejson": ".json",
             "vidyardApi": "https://play.vidyard.com/player/",
-            "apikeyyounplay": ""
+            "apikeyyounplay": "&apiKey=7d942435-c790-405c-8381-f682a274b437"
         }
     ]
 }
