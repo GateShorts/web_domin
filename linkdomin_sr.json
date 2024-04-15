@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "postUrl": "https://game.stardima.net/rock-art/",
+            "stremaapi": "https://strema.top/api/",
+            "vudeo": "null",
+            "uqload": "null",
+            "sendvid": "null",
+            "voe.sx": "null",
+            "mailru": "null",
+            "okru": "null",
+            "filemoon": "null",
+            "vk": "null",
+            "4shared": "null",
+            "mp4upload": "null",
+            "dailymotion": "null",
+            "dood": "null",
+            "vadbam": "null",
+            "viidsharsr": "null",
+            "mixdrop": "null",
+            "embedwish": "null",
+            "govad": "null",
+            "supervideo": "null",
+            "streamtape": "null",
+            "Foursharedhost": "https://www.4shared.com",
+            "MpFourupload": "https://www.mp4upload.com",
+            "okruhost": "https://ok.ru",
+            "doodhost": "https://doods.pro",
+            "uqloadhost": "https://uqload.to",
+            "streamtaphost": "https://streamtape.com",
+            "voi_sxhost": "https://voe.sx",
+            "embedwishhost": "https://streamwish.com",
+            "zidlionshost": "https://filelions.site",
+            "vidtube": "https://vidtube.pro",
+            "updown": "https://updown.cam"
+        }
+    ]
+}
