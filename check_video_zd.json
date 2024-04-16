@@ -30,7 +30,7 @@
             "filemoonembed": "https://filemoon.sx",
             "bestxcontains": "/video.m3u8?auth=",
             "removebestx": "m3u8",
-            "referer_bestx": "https://animezid.org/"
+            "refererbestx": "https://animezid.org/"
         }
     ]
 }
