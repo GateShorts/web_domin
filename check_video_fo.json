@@ -7,6 +7,7 @@
             "checkcover": "checkcover",
             "json1spacetoon": "/api/episode?episodeId=",
             "json2spacetoon": "&showId=",
+            "checkmethodgo": "checkmethodgo",
             "jsoneps": ""
         }
     ]
