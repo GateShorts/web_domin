@@ -18,6 +18,8 @@
             "filelionsembed": "https://zidlions.online",
             "streamwishembed": "https://streamwish.to",
             "updowncheck": "check",
+            "removegurad": "m3u8",
+            "containsgurad": "guardstorage.net/hls_3/",
             "mixdropembed": "https://mixdrop.ag"
         }
     ]
